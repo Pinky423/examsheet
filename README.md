@@ -1,6 +1,11 @@
 
 📊 EXCEL SALES ANALYSIS & DASHBOARD 
 
+VIDEO LINK:
+
+
+https://drive.google.com/file/d/1hbBrXmoUbgVj2sE9qN8KmjuijuQSjqJl/view?usp=drive_link
+
 📌 PROJECT OVERVIEW
 
 
